@@ -16,7 +16,6 @@ def get_page
 #     end
 end 
 end 
-end 
 Scraper.new.get_page
 
 
