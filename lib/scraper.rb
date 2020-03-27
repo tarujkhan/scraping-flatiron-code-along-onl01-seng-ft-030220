@@ -9,7 +9,7 @@ def get_page
 binding.pry 
 end 
 
-Scraper.new._get_page
+Scraper.new.get_page
 
 class Scraper
   
