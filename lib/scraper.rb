@@ -12,7 +12,7 @@ end
 Scraper.new.get_page
 
 def get_courses
-
+self.get_page.css(."post")
   
   # def print_courses
   #   self.make_courses
